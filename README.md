@@ -1,5 +1,14 @@
 # Getting Started with Create React App
 
+A Book Stalk Web-App , Built With ReactJS ,NodeJS and MysQL as DB.
+
+This Is an App capable of performing CRUD operations on the Books and Display them when admin.
+
+
+
+
+# Getting Started with Create React App
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
